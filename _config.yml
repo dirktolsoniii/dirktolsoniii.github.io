@@ -21,7 +21,7 @@ repository               : "dirktolsoniii/dirktolsoniii.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DirkTolsonComposite2022.png"
+  avatar           : "DirkTolsonComposite2022.jpg"
   name             : "Dirk Tolson III"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
